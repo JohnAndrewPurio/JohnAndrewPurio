@@ -20,11 +20,27 @@ Here are some ideas to get you started:
 - ⚡ Electrical Engineering Student
 
 
-I am Andrew Purio, a full-stack web developer here in the Philippines, and is an electronics enthusiast which also lead me to this vast field of web development. I am quite adept
-at creating web applications using the MERN stack but am also willing to learn other technological tools or stacks that can help expand my knowledge and further hone my skills. 
-Some of the technological stacks that I am quite good at are:
+I am Andrew Purio, a full-stack web developer here in the Philippines, and is an electronics enthusiast which also lead me to this vast field of web development. I love learning and grasping the concept of things or subjects that I find fascinating but is quite unfamiliar to me.
 
+I am adept at creating web applications using the MERN stack but am also willing to learn other technological tools or stacks that can help expand my knowledge and further hone my skills. Some of the technological stacks that I am quite used to are:
+
+- HTML, CSS, and JS
 - MongoDB(Mongoose) 
 - ExpressJS
 - ReactJS
 - NodeJS
+- Material UI
+- Redux
+- Firebase Authentication and Databases
+
+There are also other tools that I have used like:
+
+- Chakra UI
+- JWT (For authentication and authorization)
+
+Some of the projects that I have built starting from scratch are as follows:
+
+## Quiz App
+An quiz web application that utilizes **Open Trivia Database** to showcase their rich list of multiple questions that tests your general knowledge on several topics you can choose from.
+
+
