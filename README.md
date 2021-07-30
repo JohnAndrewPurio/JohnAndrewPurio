@@ -38,9 +38,17 @@ There are also other tools that I have used like:
 - Chakra UI
 - JWT (For authentication and authorization)
 
-Some of the projects that I have built starting from scratch are as follows:
+  <br />
+# Project Showcase:
 
 ## Quiz App
+
+**Tools or APIs used:**
+- React
+- React Router
+- Trivia API (Open Trivia Database)
+- CSS
+
 An quiz web application that utilizes **Open Trivia Database** to showcase their rich list of multiple questions that tests your general knowledge on several topics you can choose from.
 
 - Home Page
@@ -58,6 +66,28 @@ An quiz web application that utilizes **Open Trivia Database** to showcase their
 - Results Page
 
 ![Results Page](./images/quiz_app_results.jpeg)   
+
+### Here is the [link](https://quiz-app-andrew-purio.netlify.app/) if you want to check it out~ 🎉🎉
+
+  <br />
+
+## Movies App
+
+This is a web application that display the top 20 trending movies in which you can click to each movie card which will then redirect you to the details of the clicked movie and where you can also click to be redirected to watch the trailer of the said movie.
+
+- Movie Cards
+
+![Movie Cards](./images/movies_app_interface.jpeg)   
+
+- Movie Detail
+
+![Movie Detail](./images/movie_detail.jpeg)   
+
+### Another [link](https://movies-app-andrew-purio.netlify.app/) for you to check out 😁
+
+
+
+
 
 
 
