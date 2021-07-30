@@ -111,6 +111,45 @@ A fun time-based memory game that tests puts your short-term memory to the test.
 
   <br />
 
+## Everyone Answers
+
+**Tools or APIs used:**
+- React
+- Firebase Authentication
+- Firestore Database
+- Material UI
+
+An app that was created to help teachers get instant responses from students in a live online class. Teachers can create a session, add students, and can share a unique link with the students. When a student opens the portal and typed something in the text area, it synchronizes and appears on the teacher's dashboard.
+
+- Log In Page
+
+![Log In Page](./images/everyone_answers_welcome.jpeg) 
+
+- Add Students Page
+
+![Add Students Page](./images/add_students_page.jpeg) 
+
+- Teacher's Dashboard
+
+![Teacher's Dashboard](./images/dashboard.jpeg) 
+
+- Student's Link
+
+![Student's Link](./images/student_link.jpeg)
+
+- Student's Answer Page
+
+![Student's Answer Page](./images/student_answer.jpeg)
+
+- Synced Answers in the Teacher's Dashboard
+
+![Synced Answers](./images/synced_answers.jpeg)
+
+### Here's the [link](https://everybody-answers-andrew-purio.netlify.app/) if you want to try it out.
+
+
+
+
 
 
 
