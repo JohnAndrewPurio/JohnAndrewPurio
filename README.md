@@ -46,24 +46,24 @@ There are also other tools that I have used like:
 **Tools or APIs used:**
 - React
 - React Router
-- Trivia API (Open Trivia Database)
+- Trivia API [(Open Trivia Database)](https://opentdb.com/api_config.php)
 - CSS
 
-An quiz web application that utilizes **Open Trivia Database** to showcase their rich list of multiple questions that tests your general knowledge on several topics you can choose from.
+An quiz web application that utilizes **Open Trivia Database** to showcase their rich list of multiple-choices type of questions that tests your general knowledge on several topics you can choose from.
 
-- Home Page
+- 🏠 Home Page
 
 ![Home page](./images/quiz_app_welcome_page.jpeg)
 
-- Quiz Page
+- 📜 Quiz Page
 
 ![Quiz page](./images/quiz_app_questions.jpeg)
 
-- Correct Answer
+- ✔ Correct Answer
 
 ![Correct Answer](./images/correct_answer.jpeg)
 
-- Results Page
+- 🔚 Results Page
 
 ![Results Page](./images/quiz_app_results.jpeg)   
 
@@ -73,17 +73,48 @@ An quiz web application that utilizes **Open Trivia Database** to showcase their
 
 ## Movies App
 
-This is a web application that display the top 20 trending movies in which you can click to each movie card which will then redirect you to the details of the clicked movie and where you can also click to be redirected to watch the trailer of the said movie.
+This is a web application that display the **top 20 trending movies** in which you can click to each movie card which will then redirect you to the details of the clicked movie and where you can also click to be redirected to **watch the trailer** of the said movie.
 
-- Movie Cards
+- 🗃 Movie Cards
 
 ![Movie Cards](./images/movies_app_interface.jpeg)   
 
-- Movie Detail
+- ❕ Movie Detail
 
 ![Movie Detail](./images/movie_detail.jpeg)   
 
 ### Another [link](https://movies-app-andrew-purio.netlify.app/) for you to check out 😁
+
+  <br />
+
+## Memory Game
+
+A fun time-based memory game that tests puts your short-term memory to the test. Match the pair of fruits so that you can earn a point while you chase the ticking of the clock.
+
+- Game Start
+
+![Game Start](./images/memory_game.jpeg)   
+
+- In Game
+
+![Correct Pair](./images/in_game.jpeg)   
+
+- Almost There
+
+![Almost There](./images/almost_there.jpeg) 
+
+- 87 seconds... Not bad 🤣
+
+![Results Page](./images/memory_game_result.jpeg) 
+
+### Can you beat my time? ⌚ Click [here](https://memory-game-andrew-purio.netlify.app/) to find out
+
+  <br />
+
+
+
+
+
 
 
 
