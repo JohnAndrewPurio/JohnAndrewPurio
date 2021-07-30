@@ -13,11 +13,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, My name is Andrew Purio 👋
+### Hello there, My name is Andrew Purio 👋
 
-- Full-Stack Web Developer
-- Electronics Enthusiast
-- Electrical Engineering Student
+- 💯 Full-Stack Web Developer
+- 🧐 Electronics Enthusiast
+- ⚡ Electrical Engineering Student
 
 
-I have been 
+I am Andrew Purio, a full-stack web developer here in the Philippines, and is an electronics enthusiast which also lead me to this vast field of web development. I am quite adept
+at creating web applications using the MERN stack but am also willing to learn other technological tools or stacks that can help expand my knowledge and further hone my skills. 
+Some of the technological stacks that I am quite good at are:
+
+- MongoDB(Mongoose) 
+- ExpressJS
+- ReactJS
+- NodeJS
