@@ -1,5 +1,3 @@
-### Hi there, My name is Andrew Purio 👋
-
 <!--
 **JohnAndrewPurio/JohnAndrewPurio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Hi there, My name is Andrew Purio 👋
+
+- Full-Stack Web Developer
+- Electronics Enthusiast
+- Electrical Engineering Student
+
+
+I have been 
