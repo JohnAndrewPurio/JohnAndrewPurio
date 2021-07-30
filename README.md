@@ -43,7 +43,24 @@ Some of the projects that I have built starting from scratch are as follows:
 ## Quiz App
 An quiz web application that utilizes **Open Trivia Database** to showcase their rich list of multiple questions that tests your general knowledge on several topics you can choose from.
 
-###Home Page
+- Home Page
+
+![Home page](./images/quiz_app_welcome_page.jpeg)
+
+- Quiz Page
+
+![Quiz page](./images/quiz_app_questions.jpeg)
+
+- Correct Answer
+
+![Correct Answer](./images/correct_answer.jpeg)
+
+- Results Page
+
+![Results Page](./images/quiz_app_results.jpeg)   
+
+
+
 
 
 
