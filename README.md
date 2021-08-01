@@ -155,6 +155,76 @@ A full-stack application built from scratch using MongoDB, Express, and NodeJS f
 
 - Sign Up Page
 
+![Empty Sign Up](./images/empty-sign-up.jpeg)
+
+![Filled Sign Up](./images/filled-sign-up.jpeg)
+
+- Log In Page
+
+![Log In](./images/log-in-page-filled.jpeg)
+
+- User Feed
+
+
+![User Feed](./images/empty-user-feed.jpeg)
+
+- Add Post
+
+![Empty Post](./images/empty-post.jpeg)
+
+![Filled Post](./images/filled-post.jpeg)
+
+![Added Post](./images/added-posts.jpeg)
+
+- Profile Page
+
+![Profile Page](./images/profile-page.jpeg)
+
+- Search User
+
+![Search User](./images/search-user.jpeg)
+
+- Follow A User
+
+![Follow User](./images/followed-a-user.jpeg)
+
+- Like A Post
+
+![Liked A Post](./images/liked-a-post.jpeg)
+
+### You can check it out through this [link](https://everybody-answers-andrew-purio.netlify.app/). Have fun posting~ ✉✉
+
+  <br />
+
+# Education
+
+## McLaren College, Online Full-stack Web Development
+**April 2021 - July 2021**
+
+### Completed the modules
+
+- JavaScript Data Structures and Algorithms
+- Full-stack MERN course 
+
+Read more [here](https://mclarencollege.com/)
+
+  <br />
+
+## SLSU Lucban Quezon, Philippines 
+**August 2018 - Present**
+
+### Still pursuing my 4th-year BS Electrical Engineering studies
+
+Read more [here](https://slsu.edu.ph/)
+
+
+
+
+
+
+
+
+
 
 
 
