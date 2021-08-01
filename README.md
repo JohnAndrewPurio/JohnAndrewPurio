@@ -147,6 +147,17 @@ An app that was created to help teachers get instant responses from students in 
 
 ### Here's the [link](https://everybody-answers-andrew-purio.netlify.app/) if you want to try it out.
 
+  <br />
+
+## Poster: A Social Media App
+
+A full-stack application built from scratch using MongoDB, Express, and NodeJS for the backend and React and ChakraUI for the frontend. It uses JSON Web Tokens (JWT) and cookies for user authentication and authorization.
+
+- Sign Up Page
+
+
+
+
 
 
 
