@@ -41,7 +41,7 @@ There are also other tools that I have used like:
   <br />
 # Project Showcase:
 
-## Quiz App
+## [Quiz App](https://quiz-app-andrew-purio.netlify.app/)
 
 **Tools or APIs used:**
 - React
@@ -71,7 +71,7 @@ An quiz web application that utilizes **Open Trivia Database** to showcase their
 
   <br />
 
-## Movies App
+## [Movies App](https://movies-app-andrew-purio.netlify.app/)
 
 This is a web application that display the **top 20 trending movies** in which you can click to each movie card which will then redirect you to the details of the clicked movie and where you can also click to be redirected to **watch the trailer** of the said movie.
 
@@ -87,7 +87,7 @@ This is a web application that display the **top 20 trending movies** in which y
 
   <br />
 
-## Memory Game
+## [Memory Game](https://memory-game-andrew-purio.netlify.app/)
 
 A fun time-based memory game that tests puts your short-term memory to the test. Match the pair of fruits so that you can earn a point while you chase the ticking of the clock.
 
@@ -111,7 +111,7 @@ A fun time-based memory game that tests puts your short-term memory to the test.
 
   <br />
 
-## Everyone Answers
+## [Everyone Answers](https://everybody-answers-andrew-purio.netlify.app/)
 
 **Tools or APIs used:**
 - React
@@ -149,7 +149,7 @@ An app that was created to help teachers get instant responses from students in 
 
   <br />
 
-## Poster: A Social Media App
+## [Poster: A Social Media App](https://everybody-answers-andrew-purio.netlify.app/)
 
 A full-stack application built from scratch using MongoDB, Express, and NodeJS for the backend and React and ChakraUI for the frontend. It uses JSON Web Tokens (JWT) and cookies for user authentication and authorization.
 
