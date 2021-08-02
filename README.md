@@ -149,7 +149,7 @@ An app that was created to help teachers get instant responses from students in 
 
   <br />
 
-## [Poster: A Social Media App](https://everybody-answers-andrew-purio.netlify.app/)
+## [Poster: A Social Media App](https://poster-app-andrew-purio.netlify.app/)
 
 A full-stack application built from scratch using MongoDB, Express, and NodeJS for the backend and React and ChakraUI for the frontend. It uses JSON Web Tokens (JWT) and cookies for user authentication and authorization.
 
@@ -192,7 +192,7 @@ A full-stack application built from scratch using MongoDB, Express, and NodeJS f
 
 ![Liked A Post](./images/liked-a-post.jpeg)
 
-### You can check it out through this [link](https://everybody-answers-andrew-purio.netlify.app/). Have fun posting~ ✉✉
+### You can check it out through this [link](https://poster-app-andrew-purio.netlify.app/). Have fun posting~ ✉✉
 
   <br />
 
