@@ -32,11 +32,16 @@ I am adept at creating web applications using the MERN stack but am also willing
 - Material UI
 - Redux
 - Firebase Authentication and Databases
+- Docker
+- Typescript
 
 There are also other tools that I have used like:
 
 - Chakra UI
 - JWT (For authentication and authorization)
+- Node-Red
+- NestJS
+- TensorFlow
 
   <br />
 # Project Showcase:
