@@ -33,6 +33,7 @@ I am adept at creating web applications using the MERN stack but am also willing
 - Redux
 - Firebase Authentication and Databases
 - Docker
+- NextJS
 - Typescript
 
 There are also other tools that I have used like:
