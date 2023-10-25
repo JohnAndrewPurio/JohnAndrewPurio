@@ -216,10 +216,10 @@ Read more [here](https://mclarencollege.com/)
 
   <br />
 
-## SLSU Lucban Quezon, Philippines 
-**August 2018 - Present**
+## BS Electrical Engineer Undergrad
+**August 2018 - August 2023**
 
-### Still pursuing my 4th-year BS Electrical Engineering studies
+### SLSU Lucban
 
 Read more [here](https://slsu.edu.ph/)
 
